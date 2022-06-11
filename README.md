@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hi there, I am Daniel 😁 </h3>
 <h4 align="center">Data Scientist based in Singapore</h4>
 <p align="center">
-  <a href="https://www.ddanieltan.com">Website</a> •
+  <!--<a href="https://www.ddanieltan.com">Website</a> •-->
   <a href = "mailto: danieltan.singapore@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ddanieltan/">LinkedIn</a>
 
