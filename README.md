@@ -1,12 +1,8 @@
-<!-- credits to https://github.com/lauragift21/lauragift21/blob/master/README.md -->
-
-<h3 align="center">👋 Hi there, I am Daniel 😁 </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Hi there, I'm Daniel  </h3>
 <h4 align="center">Data Scientist based in Singapore</h4>
-<p align="center">
-  <!--<a href="https://www.ddanieltan.com">Website</a> •-->
+<p align="center"> 📫 Reach me at
   <a href = "mailto: danieltan.singapore@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ddanieltan/">LinkedIn</a>
-
 </p>
 
 ---
