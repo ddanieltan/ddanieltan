@@ -1,5 +1,6 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Hi there, I'm Daniel  </h3>
 <h4 align="center">Data Scientist based in Singapore</h4>
+<h4 align="center">https://www.ddanieltan.com</h4>
 <p align="center"> 📫 Reach me at
   <a href = "mailto: danieltan.singapore@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ddanieltan/">LinkedIn</a>
